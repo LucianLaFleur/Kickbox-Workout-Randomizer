@@ -1,0 +1,117 @@
+left!
+right!
+left side!
+right side!
+right foot forward!
+left foot forward!
+switch kick!
+hopping front-kick!
+hopping side kick!
+back kick!
+hopping stamp kick!
+jumping side-kick!
+jumping inward wheel kick!
+tornado kick!
+spinning outward wheel kick!
+low dodge to flying knee!
+straight flying knee!
+crouching sweep kick!
+feinting cross to front kick!
+feinting cross to side kick!
+feinting cross to roundhouse kick!
+feinting cross to knee!
+feinting cross to shuffle punch!
+feinting jab to front kick!
+feinting jab to side kick!
+feinting jab to roundhouse kick!
+feinting jab to knee!
+feinting jab to superman punch!
+roundhouse!
+low roundhouse!
+side-kick!
+axe kick!
+front snap kick!
+front push kick!
+spinning axe kick!
+outward wheel kick!
+inward wheel kick!
+hook kick!
+stomp!
+side-stomp!
+instep stomp!
+backwards chop!
+spinning punch!
+spinning elbow!
+spinning side kick!
+spinning back kick!
+backwards elbow!
+step forward!
+shuffle forward!
+shuffle back!
+backstep!
+quarter turn step!
+stepping inward parry!
+stepping outward parry!
+high block!
+low block!
+outward parry!
+quarter turn roll!
+quarter turn roll!
+side-step roll!
+side-step roll!
+outward-sway!
+inward-sway!
+back-sway!
+ducking sway!
+gut punch!
+palm strike jab!
+feinting hook, true jab!
+feinting jab!
+feinting jab, true cross!
+feinting hook
+shove!
+elbow smash!
+elbow jab!
+downward elbow strike!
+straight jab!
+shuffle-forward jab!
+sway and jab!
+roll and hook!
+roll and uppercut!
+outward parry palm strike!
+karate chop!
+side chop!
+jab!
+gut punch!
+backhand!
+inward full redirection!
+inner parry!
+outward parry!
+out-sway!
+in-sway!
+back-sway!
+ducking sway!
+throat punch!
+cross-punch!
+chain punch!
+straight knee!
+hooking knee strike!
+superman punch!
+heavy palm-strike!
+back leg flying knee!
+front leg flying knee!
+low shove!
+single-leg shove takedown!
+lunge for the legs!
+feinting cross, palm strike!
+feinting jab, palm strike!
+feinting cross, side chop!
+feinting jab, karate chop!
+feinting cross!
+feinting hook!
+outward full redirection!
+low block full redirection!
+high full redirection!
+rising double axe handle!
+falling double axe handle!
+double front kick!
