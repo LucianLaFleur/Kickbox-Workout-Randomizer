@@ -1,0 +1,3 @@
+initializing audio in this folder.
+names go in the dictionary area and paths need to be switch out in said dictionary for custom audio.
+Reminder 43e is an AI, and I'm being transparent about using a fake voice in this project
